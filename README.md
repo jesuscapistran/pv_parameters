@@ -1,12 +1,5 @@
 # pv_parameters
 
-Jesús Capistrán-Martínez, Ph.D. 
-
-Developing novel thin-film solar cells 
-
-Web: [https://www.jesuscapistran.com](https://www.jesuscapistran.com/)
-
----
 **Research Objective**
 
 The current Jupyter Notebook extract the basic PV parameters from the J-V curve of µSMU device: Voc, Jsc, FF, Rs, Rp.
