@@ -1,6 +1,10 @@
 # pv_parameters
 
-Jesus Capistrán-Martínez, Ph.D.  
+Jesús Capistrán-Martínez, Ph.D. 
+
+Developing novel thin-film solar cells 
+
+Web: [https://www.jesuscapistran.com](https://www.jesuscapistran.com/)
 
 ---
 **Research Objective**
@@ -9,16 +13,16 @@ The current Jupyter Notebook extract the basic PV parameters from the J-V curve 
 
 Note: The conversión efficiency is not calculated at this moment. If the insidence irradiance its know you can calculate using the following equation. 
 
-$$ \eta = \frac{V_{oc}J_{sc}FF}{1000 \:\text{W}/m^2}$$
+$$\eta = \frac{V_{oc}J_{sc}FF}{1000 \:\text{W}/m^2}$$
 
 ---
 
 <img src="img/microSMU-and-Solarcell.png" alt="micro-SMU and Si Solar cell">
 Fig.1  µSMU   device and a silicon (Si) solar cell 
 
-<p>
-<p>
-<p>
+
+
+
 
 <img src="img/JV-curve-celdaSi_ligh_near_01.png" alt="micro-SMU and Si Solar cell">
 Fig.2 Curve JV from µSMU and plotted in JupyterNotebook and Python 3
