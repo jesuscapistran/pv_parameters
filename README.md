@@ -18,6 +18,8 @@ Fig.2 Curve JV from µSMU and plotted in JupyterNotebook
 
 ##  Device parameters (Si mini Module)
 
+The basic PV parameters were obteined with the following Jupyter Notebook: [light_jv_parameters.ipynb](/light_jv_parameters.ipynb) 
+
 
 | Parameter     | Approximated  | statsmodels.api | 
 | ------------- | ------------- | -------------   |
