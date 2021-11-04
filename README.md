@@ -6,7 +6,7 @@ The current Jupyter Notebook extract the basic PV parameters from the J-V curve 
 
 Note: The conversión efficiency is not calculated at this moment. If the insidence irradiance its know you can calculate using the following equation. 
 
-Efficiency  = (Voc*Jsc*FF)/1000 W/m2
+Efficiency  = (Voc Jsc FF)/1000 W/m2
 
 ---
 
@@ -29,9 +29,6 @@ Fig.2 Curve JV from µSMU and plotted in JupyterNotebook
 | Rs [ohm cm2]  |      -        |       -         |
 | Rp [ohm cm2]  |      -        |       -         |
 
-Voc_fit = 2.0794 V
-Jsc_fit = -0.5863 mA/cm2
-FF_fit  = 0.696
 
 ---
 ### Donate
