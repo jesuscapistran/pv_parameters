@@ -6,19 +6,32 @@ The current Jupyter Notebook extract the basic PV parameters from the J-V curve 
 
 Note: The conversión efficiency is not calculated at this moment. If the insidence irradiance its know you can calculate using the following equation. 
 
-$$\eta = \frac{V_{oc}J_{sc}FF}{1000 \:\text{W}/m^2}$$
+Efficiency  = (Voc*Jsc*FF)/1000 W/m2
 
 ---
 
 <img src="img/microSMU-and-Solarcell.png" alt="micro-SMU and Si Solar cell">
-Fig.1  µSMU   device and a silicon (Si) solar cell 
+Fig.1  µSMU   device and a silicon (Si) solar cell
+
+<img src="img/JV-Curve-4thQuadrant.png" alt="micro-SMU and Si Solar cell">
+Fig.2 Curve JV from µSMU and plotted in JupyterNotebook 
+
+##  Device parameters (Si mini Module)
 
 
+| Parameter     | Approximated  | statsmodels.api | 
+| ------------- | ------------- | -------------   |
+| Voc [V]       |  2.0999       | 2.0794          |
+| Jsc [mA/cm2]  | -0.5867       | -0.5863         |
+| FF            |  0.6888       | 0.696           |
+| efficiency    |      -        |       -         |
+|               |      -        |       -         |
+| Rs [ohm cm2]  |      -        |       -         |
+| Rp [ohm cm2]  |      -        |       -         |
 
-
-
-<img src="img/JV-curve-celdaSi_ligh_near_01.png" alt="micro-SMU and Si Solar cell">
-Fig.2 Curve JV from µSMU and plotted in JupyterNotebook and Python 3
+Voc_fit = 2.0794 V
+Jsc_fit = -0.5863 mA/cm2
+FF_fit  = 0.696
 
 ---
 ### Donate
