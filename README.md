@@ -4,7 +4,7 @@
 
 The current Jupyter Notebook extract the basic PV parameters from the J-V curve of [µSMU](https://github.com/joeltroughton/uSMU) device: Voc, Jsc, FF, Rs, Rp.
 
-**Note:** The conversión efficiency is not calculated at this moment. If the insidence irradiance its know you can calculate using the following equation: Efficiency  = (Voc Jsc FF)/1000 W/m2
+**Note:** The conversión efficiency is not calculated at this moment. If the insidence irradiance its know you can calculate using the following equation: Efficiency  = (Voc Jsc FF)/(Irradiance [W/m2])
 
 ---
 
