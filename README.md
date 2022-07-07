@@ -31,7 +31,6 @@ The basic PV parameters were obteined with the following Jupyter Notebook: [ligh
 
 
 ---
-### Donate
 
 If this code helps you to extract the PV-parameters of JV curves. Please consider buying a cup of coffee to keep coding.
 
